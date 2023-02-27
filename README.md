@@ -40,8 +40,8 @@
 
 ### :trophy: My GitHub Stats :trophy:
 <div style="display: flex; flex-direction: row;">
- <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api?username=nelchacin&show_icons=true&theme=radical" />
+ <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api?username=nelchacin&show_icons=true&theme=tokyonight" />
 </div>****
 <div style="display: flex; flex-direction: row;">
- <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelchacin&layout=compact&theme=radical" />
+ <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelchacin&layout=compact&theme=tokyonight" />
 </div>
