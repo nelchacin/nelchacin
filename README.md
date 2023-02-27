@@ -22,7 +22,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="html5" height="40" style="vertical-align:top; margin:4px">
- <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="html5" height="40" style="vertical-align:top; margin:4px">
  <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="html5" color="#fff" height="40" width="40" style="vertical-align:top; margin:4px">
 
 <hr>
