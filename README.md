@@ -4,7 +4,6 @@
 
 
 <p align="center">
- <a href="https://https://github.com/nelchacin/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="P" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.https://www.linkedin.com/in/nelchacin/" target="_blank" rel="noopener noreferrer"> <img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:nelchacindev@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/400px-Gmail_icon_%282020%29.svg.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
